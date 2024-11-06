@@ -1,6 +1,0 @@
-@ElasticKIbanaApi_HostAddress = http://localhost:5068
-
-GET {{ElasticKIbanaApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
